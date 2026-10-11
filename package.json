@@ -1,1 +1,1 @@
-{"name": "licensegate-proof", "version": "1.0.0", "description": "Test repo for LicenseGate license scanning", "dependencies": {"gpl-3.0": "^1.0.0"}}
+{"name": "licensegate-proof", "version": "1.0.2", "description": "Test repo for LicenseGate license scanning", "dependencies": {"lodash": "^4.17.21"}}
